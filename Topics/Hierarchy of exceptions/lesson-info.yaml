@@ -1,3 +1,5 @@
 content:
   - Theory
   - RuntimeException
+  - Handling division by zero error
+  - IndexOutOfBoundsException

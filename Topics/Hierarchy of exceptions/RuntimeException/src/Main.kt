@@ -1,7 +1,7 @@
 fun main() {
     try {
     // write your code here, do not touch the lines above
-        val string = "Hello"
+        val string = "hola"
         val n = string.toInt()
 
     // do not touch the lines below    
