@@ -3,3 +3,5 @@ content:
   - RuntimeException
   - Handling division by zero error
   - IndexOutOfBoundsException
+  - Hierarchy overview
+  - NumberFormat
