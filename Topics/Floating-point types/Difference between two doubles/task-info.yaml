@@ -7,10 +7,10 @@ files:
           // put your code here
       }
     learner_created: false
-feedback_link: https://hyperskill.org/learn/step/4507#comment
+feedback_link: https://hyperskill.org/learn/step/4511#comment
 status: Solved
 feedback:
   message: <html>Correct solution</html>
-  time: "Mon, 18 Dec 2023 20:06:37 UTC"
+  time: "Mon, 18 Dec 2023 20:08:27 UTC"
 record: -1
 submission_language: kotlin
