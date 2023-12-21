@@ -18,3 +18,4 @@ content:
   - For loop and ranges
   - The try-catch-finally statement
   - Floating-point types
+  - String formatting
